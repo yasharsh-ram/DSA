@@ -53,6 +53,7 @@ public:
         
     }
 };
+// brute force O(N^2) complexicity
 
 // vector<int> ans;
 //         for (int i = 0; i < nums.size(); i++) {
