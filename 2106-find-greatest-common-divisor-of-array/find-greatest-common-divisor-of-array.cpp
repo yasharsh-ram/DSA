@@ -1,4 +1,9 @@
 class Solution {
+    int myGCD(int a, int b) {
+    if (b == 0)
+        return a;
+    return myGCD(b, a % b);
+}
 public:
     int findGCD(vector<int>& nums) {
         int mx=nums[0];
@@ -7,11 +12,6 @@ public:
             mx=max(mx,nums[i]);
             mn=min(mn,nums[i]);
         }
-        return gcd(mx,mn);
+        return myGCD(mx,mn);
     }
 };
-// int myGCD(int a, int b) {
-//     if (b == 0)
-//         return a;
-//     return myGCD(b, a % b);
-// }
