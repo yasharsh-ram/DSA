@@ -1,13 +1,13 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        vector<int>freq(26,0);
+        unordered_map<char,int>freq;
         int left=0;
         int maxlen=0;
         for(int i=0;i<s.length();i++){
-            freq[s[i]-'a']++;
-            while(freq[s[i]-'a']>2){
-                --freq[s[left]-'a'];
+            freq[s[i]]++;
+            while(freq[s[i]]>2){
+                --freq[s[left]];
                 left++;
             }
             maxlen=max(maxlen,i-left+1);
