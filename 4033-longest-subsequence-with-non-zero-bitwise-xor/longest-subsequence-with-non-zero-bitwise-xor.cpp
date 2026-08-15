@@ -5,8 +5,9 @@ public:
         int totalxor=0;
         bool nonzero=false;
         for(int i=0;i<n;i++){
-            totalxor=totalxor^nums[i];
-            if(nums[i]!=0)nonzero=true;
+            nonzero|=nums[i]>0;
+            totalxor^=nums[i];
+            
         }
             if(totalxor!=0){
                 return n;
