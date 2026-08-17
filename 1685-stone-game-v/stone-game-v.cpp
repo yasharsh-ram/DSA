@@ -11,6 +11,7 @@ public:
         for (int k = l; k < r; k++) {
             int leftsum = prefix[k + 1] - prefix[l];
             int rightsum = prefix[r + 1] - prefix[k + 1];
+            if(2*min(leftsum,rightsum)<=ans)break;
             if (leftsum < rightsum) {
                 ans = max(ans, leftsum + dfs(l, k));
             } else if (leftsum > rightsum) {
