@@ -9,16 +9,14 @@ public:
         if (k == 1) {
             int ans = -1;
             for (int i = 0; i <= 50; i++) {
-                if (freq[i] == 1) {
-                    ans = max(ans, i);
-                }
+                if (freq[i] == 1)ans = max(ans, i);
             }
             return ans;
-        }
-        if (k == n) {
+        
+        }else if (k == n) {
             return *max_element(nums.begin(), nums.end());
         }
-        if (freq[nums[0]] == 1 && freq[nums[n - 1]] == 1) {
+        else if (freq[nums[0]] == 1 && freq[nums[n - 1]] == 1) {
             return max(nums[0], nums[n - 1]);
         } else if (freq[nums[0]] == 1) {
             return nums[0];
