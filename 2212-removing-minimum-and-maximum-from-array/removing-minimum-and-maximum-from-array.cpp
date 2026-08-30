@@ -12,18 +12,22 @@ public:
                 right = i;
             }
         }
-            if (left < right)
+            if (left > right)
                 swap(left, right);
+            int ans1 = right + 1;
+            int ans2=n-left;
+            int ans3=(left+1)+(n-right);
+            return min({ans1,ans2,ans3});
         
-        int ans = n;
-        for (int i = 0; i <= n; i++) {
-            int extra = 0;
-            if (right >= i)
-                extra = n - right;
-            else if (left >= i)
-                extra = n - left;
-            ans = min(ans, i + extra);
-        }
-        return ans;
+        // int ans = n;
+        // for (int i = 0; i <= n; i++) {
+        //     int extra = 0;
+        //     if (right >= i)
+        //         extra = n - right;
+        //     else if (left >= i)
+        //         extra = n - left;
+        //     ans = min(ans, i + extra);
+        // }
+        // return ans;
     }
 };
