@@ -1,1 +1,1 @@
-<h2>find-the-minimum-and-maximum-number-of-nodes-between-critical-points Notes</h2><hr>[ Time taken: 5m 36s ]
+<h2>find-the-minimum-and-maximum-number-of-nodes-between-critical-points Notes</h2><hr>[ Time taken: 17m 34s ]
