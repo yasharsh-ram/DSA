@@ -1,12 +1,16 @@
 class Solution {
 public:
     int numberOfChild(int n, int k) {
-        int ans=k/(n-1);
-        int count=k%(n-1);
-        if(ans%2==0){
-            return count;
+       int pos=0;
+       int dir=1;
+       for(int i=0;i<k;i++){
+        pos+=dir;
+        if(pos==n-1||pos==0){
+            dir*=-1;
         }
-        return n-1-count;
-        
+       }
+       return pos;
     }
 };
+        
+   
