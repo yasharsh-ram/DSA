@@ -1,0 +1,16 @@
+{
+  "shas": {
+    "valid-parentheses": {
+      "valid-parentheses.cpp": "b8695c0e67521577c187305046ab4bfcb825feaf",
+      "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
+    },
+    "README.md": {
+      "": "9ec3940c32f3424c711f47b07db7a98c7fffed1e"
+    },
+    "stats.json": {
+      "": "54ad89a3c8940aa5cff12a7590d64cd30840592a"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
+}
