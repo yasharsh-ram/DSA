@@ -5,12 +5,16 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "9ec3940c32f3424c711f47b07db7a98c7fffed1e"
+      "": "49a7979153dd21fb54dda5e2b309febdbb92421b"
     },
     "stats.json": {
-      "": "54ad89a3c8940aa5cff12a7590d64cd30840592a"
+      "": "ea27aabcbe7ca74049ed301f49c4369f46753248"
+    },
+    "generate-parentheses": {
+      "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
+      "README.md": "dc84a38dd3d19b8005bcd4fef397014ed2967327"
     }
   },
-  "solved": 1,
+  "solved": 2,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
