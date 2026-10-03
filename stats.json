@@ -5,16 +5,20 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "49a7979153dd21fb54dda5e2b309febdbb92421b"
+      "": "bd7c9445e3713179c318206c9f6cf43064d4f3f8"
     },
     "stats.json": {
-      "": "ea27aabcbe7ca74049ed301f49c4369f46753248"
+      "": "0a2b2207ba090e9d601843af22804c63de71183a"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
       "README.md": "dc84a38dd3d19b8005bcd4fef397014ed2967327"
+    },
+    "longest-valid-parentheses": {
+      "longest-valid-parentheses.cpp": "23bfdf04a37686c8dad4bdd6901d3e90d73e50f3",
+      "README.md": "3b451599ab28b63e2bc2ae4dbbdfac930dd15944"
     }
   },
-  "solved": 2,
+  "solved": 3,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
