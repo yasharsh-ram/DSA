@@ -16,6 +16,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | LeetCode #22 | [C++](./leetcode/Medium/generate-parentheses/generate-parentheses.cpp) |
 | 3 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | LeetCode #32 | [C++](./leetcode/Hard/longest-valid-parentheses/longest-valid-parentheses.cpp) |
 | 4 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
+| 5 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 
 ## Dynamic Programming
 
@@ -38,6 +39,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode #20 | [C++](./leetcode/Easy/valid-parentheses/valid-parentheses.cpp) |
 | 2 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | LeetCode #32 | [C++](./leetcode/Hard/longest-valid-parentheses/longest-valid-parentheses.cpp) |
 | 3 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
+| 4 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 
 ## String
 
@@ -47,6 +49,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | LeetCode #22 | [C++](./leetcode/Medium/generate-parentheses/generate-parentheses.cpp) |
 | 3 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | LeetCode #32 | [C++](./leetcode/Hard/longest-valid-parentheses/longest-valid-parentheses.cpp) |
 | 4 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
+| 5 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
