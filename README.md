@@ -7,6 +7,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | LeetCode #22 | [C++](./leetcode/Medium/generate-parentheses/generate-parentheses.cpp) |
+| 2 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 
 ## Bracket Sequences
 
@@ -18,6 +19,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 4 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
 | 5 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 | 6 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode #1078 | [C++](./leetcode/Easy/remove-outermost-parentheses/remove-outermost-parentheses.cpp) |
+
+## Breadth-First Search
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 
 ## Dynamic Programming
 
@@ -53,6 +60,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 4 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
 | 5 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 | 6 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode #1078 | [C++](./leetcode/Easy/remove-outermost-parentheses/remove-outermost-parentheses.cpp) |
+| 7 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
