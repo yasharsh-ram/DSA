@@ -20,6 +20,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 5 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 | 6 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode #1078 | [C++](./leetcode/Easy/remove-outermost-parentheses/remove-outermost-parentheses.cpp) |
 | 7 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| 8 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
 
 ## Breadth-First Search
 
@@ -41,6 +42,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
 | 2 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| 3 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
 
 ## Stack
 
@@ -52,6 +54,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 4 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | LeetCode #886 | [C++](./leetcode/Medium/score-of-parentheses/score-of-parentheses.cpp) |
 | 5 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode #1078 | [C++](./leetcode/Easy/remove-outermost-parentheses/remove-outermost-parentheses.cpp) |
 | 6 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| 7 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
 
 ## String
 
@@ -65,6 +68,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 6 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode #1078 | [C++](./leetcode/Easy/remove-outermost-parentheses/remove-outermost-parentheses.cpp) |
 | 7 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 | 8 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| 9 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
