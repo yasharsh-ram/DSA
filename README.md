@@ -53,6 +53,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | LeetCode #4450 | [C++](./leetcode/Easy/three-fibonacci-sum/three-fibonacci-sum.cpp) |
+| 2 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | LeetCode #4433 | [C++](./leetcode/Medium/prime-subset-selection-i/prime-subset-selection-i.cpp) |
 
 ## Greedy
 
