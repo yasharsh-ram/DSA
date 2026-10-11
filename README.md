@@ -48,6 +48,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | LeetCode #32 | [C++](./leetcode/Hard/longest-valid-parentheses/longest-valid-parentheses.cpp) |
 | 3 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
 
+## General
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | LeetCode #4450 | [C++](./leetcode/Easy/three-fibonacci-sum/three-fibonacci-sum.cpp) |
+
 ## Greedy
 
 | # | Problem | Platform | Language |
