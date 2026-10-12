@@ -8,6 +8,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
 | 2 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | LeetCode #2844 | [C++](./leetcode/Easy/sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.cpp) |
+| 3 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 
 ## Backtracking
 
@@ -21,6 +22,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
+
+## Bit Manipulation
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 
 ## Bracket Sequences
 
@@ -70,6 +77,13 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
 | 3 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 4 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
+| 5 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
+
+## Hash Table
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 
 ## Heap (Priority Queue)
 
