@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "d5ab290b85b699c5c3735bde950f88b51024fbeb"
+      "": "8aeb7ce3173b1551b9f473f6edad989f3650e854"
     },
     "stats.json": {
-      "": "8b2afc6514769f4465b2c5f11de9b623d39af507"
+      "": "879bffcb730c56fff4dad7d5e69f2d787d79b61b"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -61,8 +61,12 @@
     "apply-operations-on-array-to-maximize-sum-of-squares": {
       "apply-operations-on-array-to-maximize-sum-of-squares.cpp": "dc9633e1ad2172874d905ac890ed206c983c8e25",
       "README.md": "752dfd506dc9c35b99c13d14a1f70851dcf493a0"
+    },
+    "maximum-alternating-sum-of-squares": {
+      "maximum-alternating-sum-of-squares.cpp": "a0ee7caf4e53562371ddb7009e9700ea562fed5e",
+      "README.md": "27459d04d39000b9a94936046aa2bf481d658616"
     }
   },
-  "solved": 14,
+  "solved": 15,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
