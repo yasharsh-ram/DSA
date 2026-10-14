@@ -80,6 +80,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 4 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
 | 5 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 | 6 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | LeetCode #4078 | [C++](./leetcode/Medium/maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.cpp) |
+| 7 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
 
 ## Hash Table
 
@@ -92,6 +93,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
+
+## Math
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
 
 ## Sorting
 
