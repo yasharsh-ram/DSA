@@ -10,6 +10,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | LeetCode #2844 | [C++](./leetcode/Easy/sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.cpp) |
 | 3 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 | 4 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | LeetCode #4078 | [C++](./leetcode/Medium/maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.cpp) |
+| 5 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 
 ## Backtracking
 
@@ -17,6 +18,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | LeetCode #22 | [C++](./leetcode/Medium/generate-parentheses/generate-parentheses.cpp) |
 | 2 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
+
+## Binary Indexed Tree
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 
 ## Binary Search
 
@@ -87,6 +94,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
+| 2 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 
 ## Heap (Priority Queue)
 
@@ -99,6 +107,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
+
+## Segment Tree
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 
 ## Sorting
 
