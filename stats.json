@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "7d6924e54c8b965da0d21efcf1d0ebbd6c45999a"
+      "": "164995cd541592659969225b3e59569aee3e8981"
     },
     "stats.json": {
-      "": "5b23790166cf57f2047041763b7fd6ff3e60ac14"
+      "": "303876fe6c5673ec88f57156db833be7a64aeb67"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -73,8 +73,12 @@
     "subarrays-distinct-element-sum-of-squares-i": {
       "subarrays-distinct-element-sum-of-squares-i.cpp": "404a6f2d2ef4e4174a669b333b81de55022b0150",
       "README.md": "3cfae0ade9b1e9e33c305f96eb998412cb56fc51"
+    },
+    "minimum-swaps-to-sort-by-digit-sum": {
+      "minimum-swaps-to-sort-by-digit-sum.cpp": "cbe881644354967016e29af143412418007e9720",
+      "README.md": "a3c432b548f56438232338168a83568185241688"
     }
   },
-  "solved": 17,
+  "solved": 18,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
