@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "146c34d370c87ec8f7e7d9da027f5d9de68c59be"
+      "": "0507012fc1e86c2eb026e50b5b0d38b9794b68d7"
     },
     "stats.json": {
-      "": "0db11fcea9c62cb3441864591eb81f6f8096a3c7"
+      "": "f847c86bbdd2136892f2c27a9b32ad03051eb9a4"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -81,8 +81,12 @@
     "number-of-ways-to-reorder-array-to-get-same-bst": {
       "number-of-ways-to-reorder-array-to-get-same-bst.cpp": "6f3c5171665569fb81f2d7ce0eb64f4c1988ab21",
       "README.md": "5c3c193e2c342999ad5045da1f01166160414838"
+    },
+    "find-target-indices-after-sorting-array": {
+      "find-target-indices-after-sorting-array.cpp": "9515eea49317b4221fcff78dd50632c8167606b8",
+      "README.md": "aa70762ad96b26f693cbe6ece9b85f587efcd6e1"
     }
   },
-  "solved": 19,
+  "solved": 20,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }

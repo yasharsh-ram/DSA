@@ -13,6 +13,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 5 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 | 6 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | LeetCode #3847 | [C++](./leetcode/Medium/minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.cpp) |
 | 7 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+| 8 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 
 ## Backtracking
 
@@ -32,6 +33,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
+| 2 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 
 ## Binary Search Tree
 
@@ -162,6 +164,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
 | 2 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | LeetCode #4078 | [C++](./leetcode/Medium/maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.cpp) |
 | 3 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | LeetCode #3847 | [C++](./leetcode/Medium/minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.cpp) |
+| 4 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 
 ## Stack
 
