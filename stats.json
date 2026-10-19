@@ -8,7 +8,7 @@
       "": "0507012fc1e86c2eb026e50b5b0d38b9794b68d7"
     },
     "stats.json": {
-      "": "f847c86bbdd2136892f2c27a9b32ad03051eb9a4"
+      "": "ef72aa40051993ed3707b0f0220ff8aaf77ccee7"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -83,8 +83,8 @@
       "README.md": "5c3c193e2c342999ad5045da1f01166160414838"
     },
     "find-target-indices-after-sorting-array": {
-      "find-target-indices-after-sorting-array.cpp": "9515eea49317b4221fcff78dd50632c8167606b8",
-      "README.md": "aa70762ad96b26f693cbe6ece9b85f587efcd6e1"
+      "find-target-indices-after-sorting-array.cpp": "e60d4da24faf753c22981f550c5b3dc1df08035a",
+      "README.md": "8550896351ac1c505ab8e4345d1a7e61ed33c6a2"
     }
   },
   "solved": 20,
