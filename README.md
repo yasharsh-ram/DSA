@@ -14,6 +14,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 6 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | LeetCode #3847 | [C++](./leetcode/Medium/minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.cpp) |
 | 7 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 8 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+| 9 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | LeetCode #4184 | [C++](./leetcode/Medium/minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.cpp) |
 
 ## Backtracking
 
