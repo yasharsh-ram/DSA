@@ -8,7 +8,7 @@
       "": "2e7592b4cdd32187fa3b64df7e2f9b0e211ce68a"
     },
     "stats.json": {
-      "": "3e08eac6e0fae797cb0bf3090f59e8c347d6d9ca"
+      "": "1add28fda9984b48eee580236ef593081463a6cb"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -91,8 +91,8 @@
       "README.md": "5324775d48959bd8cf5452bdd83ba5ee0963c24e"
     },
     "maximum-k-to-sort-a-permutation": {
-      "maximum-k-to-sort-a-permutation.cpp": "8bd4efdfdfcd9b05e36a3c21398a1a0b3b7d69d7",
-      "README.md": "3cd9a1ae5159755deda7c01a8065997afd6e47b5"
+      "maximum-k-to-sort-a-permutation.cpp": "68932e2db30169067473fb2aa1f9a64fcd10c938",
+      "README.md": "a2fe748e4484aae0ff8c839637131016aa1aa4c2"
     }
   },
   "solved": 22,
