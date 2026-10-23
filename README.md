@@ -15,6 +15,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 7 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 8 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 | 9 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | LeetCode #4184 | [C++](./leetcode/Medium/minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.cpp) |
+| 10 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | LeetCode #3950 | [C++](./leetcode/Medium/maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.cpp) |
 
 ## Backtracking
 
@@ -53,6 +54,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
+| 2 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | LeetCode #3950 | [C++](./leetcode/Medium/maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.cpp) |
 
 ## Bracket Sequences
 
