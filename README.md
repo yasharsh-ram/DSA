@@ -147,6 +147,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
 | 2 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+| 3 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 
 ## Memoization
 
@@ -194,6 +195,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 7 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 | 8 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
 | 9 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
+| 10 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 
 ## Tree
 
