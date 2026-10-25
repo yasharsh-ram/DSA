@@ -16,6 +16,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 8 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 | 9 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | LeetCode #4184 | [C++](./leetcode/Medium/minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.cpp) |
 | 10 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | LeetCode #3950 | [C++](./leetcode/Medium/maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.cpp) |
+| 11 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 
 ## Backtracking
 
@@ -74,12 +75,19 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
+| 2 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 
 ## Combinatorics
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+
+## Depth-First Search
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 
 ## Divide and Conquer
 
@@ -149,6 +157,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 3 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 
+## Matrix
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
+
 ## Memoization
 
 | # | Problem | Platform | Language |
@@ -208,6 +222,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+| 2 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
