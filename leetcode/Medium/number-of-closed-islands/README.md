@@ -3,7 +3,7 @@
 ## Metadata
 - **Difficulty:** <span style="color: #eab308; font-weight: bold;">Medium</span>
 - **Languages:** `C++`
-- **Submission Date:** October 25, 2026
+- **Submission Date:** October 26, 2026
 - **Tags:** `Array`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Matrix`
 
 ## Description
@@ -69,8 +69,8 @@ class Solution {
         if(grid[x][y]==1||visit[x][y])return true;
         visit[x][y]=true;
         bool closed=true;
-        vector<int>dirx={0,1,0,-1};
-        vector<int>diry={-1,0,1,0};
+        int dirx[4]={0,1,0,-1};
+        int diry[4]={-1,0,1,0};
         for(int i=0;i<4;i++){
             int r=x+dirx[i];
             int c=y+diry[i];

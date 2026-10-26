@@ -8,7 +8,7 @@
       "": "86b16706df26a2c1ae51cb4b43b3757598987507"
     },
     "stats.json": {
-      "": "c4e66db2a8b392dc8bc7db9e21d2f19f3c91e947"
+      "": "ea51c8c94a9f34df2566f6fa3c9e64b0aef03342"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -99,8 +99,8 @@
       "README.md": "e903baf65846fc57e5e90689c62aa3b59b1128e3"
     },
     "number-of-closed-islands": {
-      "number-of-closed-islands.cpp": "2f515fc5b9c8570298ed5d49324523edba4340cb",
-      "README.md": "b321cab4b0d747b037af790ffbd070fcde4003b4"
+      "number-of-closed-islands.cpp": "aef226d2b6b0a7914c06c592efc8cbb0e935a03d",
+      "README.md": "43fc534a699480da87f03b829a8443cdd2d47cf3"
     },
     "count-islands-with-total-value-divisible-by-k": {
       "count-islands-with-total-value-divisible-by-k.cpp": "f2048aa91d7590d26c4c798e6ef78dfa64d0e974",
