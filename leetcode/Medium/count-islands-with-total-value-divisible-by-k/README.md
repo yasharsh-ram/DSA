@@ -65,8 +65,8 @@ class Solution {
         if(grid[x][y]==0||visit[x][y])return 0;
         visit[x][y]=true;
         long long sum=grid[x][y];
-        vector<int>dirx={0,1,0,-1};
-        vector<int>diry={-1,0,1,0};
+        int dirx[4]={0,1,0,-1};
+        int diry[4]={-1,0,1,0};
         for(int i=0;i<4;i++){
             int r=x+dirx[i];
             int c=y+diry[i];
