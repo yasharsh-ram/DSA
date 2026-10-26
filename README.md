@@ -17,6 +17,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 9 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | LeetCode #4184 | [C++](./leetcode/Medium/minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.cpp) |
 | 10 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | LeetCode #3950 | [C++](./leetcode/Medium/maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.cpp) |
 | 11 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
+| 12 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 
 ## Backtracking
 
@@ -76,6 +77,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 | 2 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
+| 3 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 
 ## Combinatorics
 
@@ -88,6 +90,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
+| 2 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 
 ## Divide and Conquer
 
@@ -162,6 +165,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
+| 2 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 
 ## Memoization
 
@@ -223,6 +227,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 2 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
+| 3 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
