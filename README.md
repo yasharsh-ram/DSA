@@ -125,6 +125,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | LeetCode #4450 | [C++](./leetcode/Easy/three-fibonacci-sum/three-fibonacci-sum.cpp) |
 | 2 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | LeetCode #4433 | [C++](./leetcode/Medium/prime-subset-selection-i/prime-subset-selection-i.cpp) |
+| 3 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | LeetCode #4342 | [C++](./leetcode/Easy/create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.cpp) |
 
 ## Greedy
 
