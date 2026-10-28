@@ -18,6 +18,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 10 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | LeetCode #3950 | [C++](./leetcode/Medium/maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.cpp) |
 | 11 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 | 12 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
+| 13 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp) |
 
 ## Backtracking
 
@@ -57,6 +58,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | LeetCode #3153 | [C++](./leetcode/Hard/apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 | 2 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | LeetCode #3950 | [C++](./leetcode/Medium/maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.cpp) |
+| 3 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp) |
 
 ## Bracket Sequences
 
@@ -106,6 +108,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | LeetCode #32 | [C++](./leetcode/Hard/longest-valid-parentheses/longest-valid-parentheses.cpp) |
 | 3 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
 | 4 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+| 5 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp) |
 
 ## Enumeration
 
@@ -167,6 +170,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 | 2 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
+| 3 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp) |
 
 ## Memoization
 
