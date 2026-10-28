@@ -34,23 +34,62 @@
 //     }
 // };
 
+// class Solution {
+//     int m,n;
+//     vector<vector<vector<int>>> dp;
+//     int dfs(int i,int j,int temp,vector<vector<int>>& grid){
+//         if(i>=m||j>=n)return INT_MAX;
+//         temp^=grid[i][j];
+//         if(i==m-1&&j==n-1)return temp;
+//         if(dp[i][j][temp]!=-1)return dp[i][j][temp];
+//         int right=dfs(i+1,j,temp,grid);
+//         int down=dfs(i,j+1,temp,grid);
+//         return dp[i][j][temp]=min(right,down);
+//     }
+// public:
+//     int minCost(vector<vector<int>>& grid) {
+//         m = grid.size();
+//         n = grid[0].size();
+//         dp = vector<vector<vector<int>>>(m, vector<vector<int>>(n, vector<int>(1024, -1)));
+//         return dfs(0,0,0,grid);
+//     }
+// };
+
 class Solution {
-    int m,n;
-    vector<vector<vector<int>>> dp;
-    int dfs(int i,int j,int temp,vector<vector<int>>& grid){
-        if(i>=m||j>=n)return INT_MAX;
-        temp^=grid[i][j];
-        if(i==m-1&&j==n-1)return temp;
-        if(dp[i][j][temp]!=-1)return dp[i][j][temp];
-        int right=dfs(i+1,j,temp,grid);
-        int down=dfs(i,j+1,temp,grid);
-        return dp[i][j][temp]=min(right,down);
-    }
 public:
     int minCost(vector<vector<int>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
-        dp = vector<vector<vector<int>>>(m, vector<vector<int>>(n, vector<int>(1024, -1)));
-        return dfs(0,0,0,grid);
+        int n = grid.size();
+        int m = grid[0].size();
+
+        vector<vector<unordered_set<int>>> dp(
+            n, vector<unordered_set<int>>(m)
+        );
+
+        dp[0][0].insert(grid[0][0]);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (i == 0 && j == 0) continue;
+
+                int curr = grid[i][j];
+
+                if (i > 0) {
+                    for (int prev : dp[i - 1][j]) {
+                        dp[i][j].insert(prev ^ curr);
+                    }
+                }
+
+                if (j > 0) {
+                    for (int prev : dp[i][j - 1]) {
+                        dp[i][j].insert(prev ^ curr);
+                    }
+                }
+            }
+        }
+
+        return *min_element(
+            dp[n - 1][m - 1].begin(),
+            dp[n - 1][m - 1].end()
+        );
     }
 };

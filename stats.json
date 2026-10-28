@@ -8,7 +8,7 @@
       "": "9e47925ed05e2da5be3f6f6467fe64621db79cb8"
     },
     "stats.json": {
-      "": "d96a255a75d1cb571ea9f2cbeb30fd42a0b81223"
+      "": "4e8a0cb30bab6595ce91c7fe7dafdc601c164e85"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -111,8 +111,8 @@
       "README.md": "2955fdb26566db6483c12273db30e677cbcf0a2e"
     },
     "minimum-xor-path-in-a-grid": {
-      "minimum-xor-path-in-a-grid.cpp": "1fee73d6ce1d967657d842afb483e8e367ec0d32",
-      "README.md": "63d21d7c29344aca6ca82a12e1e464bab71515ab",
+      "minimum-xor-path-in-a-grid.cpp": "726bbb8f0eeb99e53164ebeb4728e84318de0e8b",
+      "README.md": "213448efa73574493147edcab44ce441f6c8550e",
       "minimum-xor-path-in-a-grid.py": "cdc7ce6fb62dec068ff6bce192a9d4b4cc376d50"
     }
   },
