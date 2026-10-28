@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "51f7efa6f2694f25baf47c5123f7c0c685adcd7c"
+      "": "9e47925ed05e2da5be3f6f6467fe64621db79cb8"
     },
     "stats.json": {
-      "": "5e149d3640419e31c7e9f4478a17be77e40940f3"
+      "": "d82c43103f052713aeeccf2e4639cfb37c875539"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -112,7 +112,8 @@
     },
     "minimum-xor-path-in-a-grid": {
       "minimum-xor-path-in-a-grid.cpp": "1fee73d6ce1d967657d842afb483e8e367ec0d32",
-      "README.md": "63d21d7c29344aca6ca82a12e1e464bab71515ab"
+      "README.md": "f0e88115cd8d9256a5075ad8c8ecca5d839aefc3",
+      "minimum-xor-path-in-a-grid.py": "cdc7ce6fb62dec068ff6bce192a9d4b4cc376d50"
     }
   },
   "solved": 27,
