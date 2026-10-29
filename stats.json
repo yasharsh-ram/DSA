@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "9e47925ed05e2da5be3f6f6467fe64621db79cb8"
+      "": "28865efe03661085c69cb4e17f5eb985a3d4a470"
     },
     "stats.json": {
-      "": "4e8a0cb30bab6595ce91c7fe7dafdc601c164e85"
+      "": "6c5f2e58a199113c1f92f8745ffbe498c5574733"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -114,8 +114,12 @@
       "minimum-xor-path-in-a-grid.cpp": "726bbb8f0eeb99e53164ebeb4728e84318de0e8b",
       "README.md": "213448efa73574493147edcab44ce441f6c8550e",
       "minimum-xor-path-in-a-grid.py": "cdc7ce6fb62dec068ff6bce192a9d4b4cc376d50"
+    },
+    "palindromic-path-queries-in-a-tree": {
+      "palindromic-path-queries-in-a-tree.cpp": "2a7a49d564a00498c211aecf17be380c710c8d33",
+      "README.md": "335bb51caf3c65a770ee54cf05e1ac427e95e07c"
     }
   },
-  "solved": 27,
+  "solved": 28,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
