@@ -8,7 +8,7 @@
       "": "28865efe03661085c69cb4e17f5eb985a3d4a470"
     },
     "stats.json": {
-      "": "6c5f2e58a199113c1f92f8745ffbe498c5574733"
+      "": "29f7bca5d617624302253de1d5fc32ce836f515c"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -116,8 +116,8 @@
       "minimum-xor-path-in-a-grid.py": "cdc7ce6fb62dec068ff6bce192a9d4b4cc376d50"
     },
     "palindromic-path-queries-in-a-tree": {
-      "palindromic-path-queries-in-a-tree.cpp": "2a7a49d564a00498c211aecf17be380c710c8d33",
-      "README.md": "335bb51caf3c65a770ee54cf05e1ac427e95e07c"
+      "palindromic-path-queries-in-a-tree.cpp": "2f5c5292aa67d185e51a56f2e691eb9ebfc90ab8",
+      "README.md": "92665699fa689b0636a6c1c0aea581f778a080b9"
     }
   },
   "solved": 28,
