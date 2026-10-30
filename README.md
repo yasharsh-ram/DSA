@@ -135,6 +135,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | LeetCode #4433 | [C++](./leetcode/Medium/prime-subset-selection-i/prime-subset-selection-i.cpp) |
 | 3 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | LeetCode #4342 | [C++](./leetcode/Easy/create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.cpp) |
 
+## Graph Theory
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
+
 ## Greedy
 
 | # | Problem | Platform | Language |
@@ -160,6 +166,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
+| 2 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 
 ## Math
 
@@ -189,6 +196,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 | 2 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
+
+## Shortest Path
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 
 ## Sorting
 
@@ -226,6 +239,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 9 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
 | 10 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 | 11 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
+| 12 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 
 ## Tree
 
