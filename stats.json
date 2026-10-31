@@ -8,7 +8,7 @@
       "": "80a0c897b5dd149c43b0cd578cc4846404027e74"
     },
     "stats.json": {
-      "": "81dbc4bb3623216218130b339266b5339a7e329d"
+      "": "fd4bc4ce563a5954212e79b66812dbe88fd78cfc"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -124,8 +124,8 @@
       "README.md": "b83b3b0448c5f0255f49e84813f73ace6739b90c"
     },
     "twisted-mirror-path-count": {
-      "twisted-mirror-path-count.cpp": "df66db2e68bf35eafde437bada22a70977bccade",
-      "README.md": "4ef0a86b98af2b019e5f16afc4d4c746c718f050"
+      "twisted-mirror-path-count.cpp": "7e3521d8f7edf5b8c20cc7c7d05c356a8a883a6c",
+      "README.md": "345721d451f12177a293bb21859726ac2856c9bd"
     }
   },
   "solved": 30,
