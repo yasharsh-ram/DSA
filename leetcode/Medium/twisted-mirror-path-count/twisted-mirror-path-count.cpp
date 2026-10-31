@@ -44,3 +44,31 @@ public:
 //         return dp[n-1][m-1];
 //     }
 // };
+
+// class Solution {
+//     int n,m;
+//     const int MOD=1e9+7;
+//     vector<vector<int>>dp;
+//     int dfs(int i,int j,vector<vector<int>>& grid){
+//             if(i>=n||j>=m)return 0;
+//             if(i==n-1&&j==m-1)return 1;
+//             if(dp[i][j]!=-1)return dp[i][j];
+//             int right=0,down=0;
+//             int x=i,y=j+1;
+//             if(y<m&&grid[x][y]==1)
+//             x++;
+//             right=dfs(x,y,grid);
+//             x=i+1,y=j;
+//             if(x<n&&grid[x][y]==1)
+//             y++;
+//             down=dfs(x,y,grid);
+//             return dp[i][j]=(right+down)%MOD;
+//         }
+// public:
+//     int uniquePaths(vector<vector<int>>& grid) {
+//         n=grid.size();
+//         m=grid[0].size();
+//         dp.assign(n, vector<int>(m, -1));
+//         return dfs(0,0,grid);
+//     }
+// };
