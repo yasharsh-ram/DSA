@@ -20,6 +20,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 12 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 | 13 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp), [Python](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.py) |
 | 14 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
+| 15 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
 
 ## Backtracking
 
@@ -114,6 +115,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 3 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | LeetCode #678 | [C++](./leetcode/Medium/valid-parenthesis-string/valid-parenthesis-string.cpp) |
 | 4 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 5 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp), [Python](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.py) |
+| 6 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
 
 ## Enumeration
 
@@ -183,6 +185,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 | 2 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 | 3 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp), [Python](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.py) |
+| 4 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
 
 ## Memoization
 
