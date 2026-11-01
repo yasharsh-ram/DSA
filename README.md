@@ -21,6 +21,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 13 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp), [Python](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.py) |
 | 14 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
 | 15 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
+| 16 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode #453 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
 
 ## Backtracking
 
@@ -177,6 +178,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
 | 2 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 3 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
+| 4 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode #453 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
 
 ## Matrix
 
