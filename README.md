@@ -22,6 +22,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 14 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
 | 15 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
 | 16 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode #453 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
+| 17 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
 
 ## Backtracking
 
@@ -179,6 +180,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 3 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 | 4 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode #453 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
+| 5 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
 
 ## Matrix
 
@@ -216,6 +218,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | LeetCode #4078 | [C++](./leetcode/Medium/maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.cpp) |
 | 3 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | LeetCode #3847 | [C++](./leetcode/Medium/minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.cpp) |
 | 4 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+| 5 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
 
 ## Stack
 
