@@ -23,6 +23,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 15 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
 | 16 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode #453 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
 | 17 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
+| 18 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | LeetCode #4116 | [C++](./leetcode/Easy/minimum-moves-to-equal-array-elements-iii/minimum-moves-to-equal-array-elements-iii.cpp) |
 
 ## Backtracking
 
@@ -181,6 +182,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 3 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 | 4 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode #453 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
 | 5 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
+| 6 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | LeetCode #4116 | [C++](./leetcode/Easy/minimum-moves-to-equal-array-elements-iii/minimum-moves-to-equal-array-elements-iii.cpp) |
 
 ## Matrix
 
