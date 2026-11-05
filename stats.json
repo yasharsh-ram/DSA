@@ -8,7 +8,7 @@
       "": "f8947f01efd0d24a82bddbfbc28fe7507dbb72e4"
     },
     "stats.json": {
-      "": "0c8f96a61adc7b5763ddd92b626c13762ac7c9bd"
+      "": "b7c066e959e7214ec8c8a6964cc05aae8ad15f35"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -144,8 +144,8 @@
       "README.md": "49cee2a86c3ee332ee59e91dde7d5423a1f46902"
     },
     "find-the-distance-value-between-two-arrays": {
-      "find-the-distance-value-between-two-arrays.cpp": "8ba10de71d0d65ae4ea51bfebe8ec86e9ed6ef01",
-      "README.md": "eebf9164a74cdd28d19d9df9657c06dc9d8aade4"
+      "find-the-distance-value-between-two-arrays.cpp": "f1a30392d448f21d579f49eee209a9960c98b175",
+      "README.md": "8ac56f384c90ff485026031b6ba5b50d77b50630"
     }
   },
   "solved": 35,
