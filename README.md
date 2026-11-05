@@ -25,6 +25,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 17 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
 | 18 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | LeetCode #4116 | [C++](./leetcode/Easy/minimum-moves-to-equal-array-elements-iii/minimum-moves-to-equal-array-elements-iii.cpp) |
 | 19 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
+| 20 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 
 ## Backtracking
 
@@ -46,6 +47,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
 | 2 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+| 3 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 
 ## Binary Search Tree
 
@@ -232,6 +234,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 3 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | LeetCode #3847 | [C++](./leetcode/Medium/minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.cpp) |
 | 4 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode #2210 | [C++](./leetcode/Easy/find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 | 5 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
+| 6 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 
 ## Stack
 
@@ -268,6 +271,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 2 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
+
+## Two Pointers
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 
 ## Union-Find
 
