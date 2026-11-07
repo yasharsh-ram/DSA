@@ -27,6 +27,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 19 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 20 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 | 21 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
+| 22 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | LeetCode #2012 | [C++](./leetcode/Medium/process-tasks-using-servers/process-tasks-using-servers.cpp) |
 
 ## Backtracking
 
@@ -180,6 +181,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | LeetCode #2418 | [C++](./leetcode/Medium/minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.cpp) |
 | 2 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 | 3 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
+| 4 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | LeetCode #2012 | [C++](./leetcode/Medium/process-tasks-using-servers/process-tasks-using-servers.cpp) |
 
 ## Math
 
