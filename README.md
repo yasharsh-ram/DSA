@@ -28,6 +28,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 20 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 | 21 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
 | 22 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | LeetCode #2012 | [C++](./leetcode/Medium/process-tasks-using-servers/process-tasks-using-servers.cpp) |
+| 23 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 
 ## Backtracking
 
@@ -92,12 +93,19 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | LeetCode #301 | [C++](./leetcode/Hard/remove-invalid-parentheses/remove-invalid-parentheses.cpp) |
 | 2 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 | 3 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
+| 4 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 
 ## Combinatorics
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+
+## Counting
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 
 ## Depth-First Search
 
@@ -106,6 +114,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 | 2 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 | 3 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
+| 4 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 
 ## Divide and Conquer
 
@@ -203,6 +212,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
 | 3 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | LeetCode #4205 | [C++](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.cpp), [Python](./leetcode/Medium/minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.py) |
 | 4 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
+| 5 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 
 ## Memoization
 
@@ -291,6 +301,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 2 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode #1380 | [C++](./leetcode/Medium/number-of-closed-islands/number-of-closed-islands.cpp) |
 | 3 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode #3823 | [C++](./leetcode/Medium/count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.cpp) |
+| 4 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
