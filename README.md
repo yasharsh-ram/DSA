@@ -29,6 +29,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 21 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
 | 22 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | LeetCode #2012 | [C++](./leetcode/Medium/process-tasks-using-servers/process-tasks-using-servers.cpp) |
 | 23 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
+| 24 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 
 ## Backtracking
 
@@ -191,6 +192,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 2 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 | 3 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 4 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | LeetCode #2012 | [C++](./leetcode/Medium/process-tasks-using-servers/process-tasks-using-servers.cpp) |
+| 5 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 
 ## Math
 
@@ -220,6 +222,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 
+## Ordered Set
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
+
 ## Segment Tree
 
 | # | Problem | Platform | Language |
@@ -232,6 +240,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
+
+## Simulation
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 
 ## Sliding Window
 
