@@ -8,8 +8,7 @@ public:
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>busy;
         vector<int>counts(k,0);
         for(int i=0;i<arrival.size();i++){
-            int arrtime=arrival[i];
-            int loadtime=load[i];
+            int arrtime=arrival[i],loadtime=load[i];
             while(!busy.empty()&&busy.top().first<=arrtime){
                 available.insert(busy.top().second);
                 busy.pop();
