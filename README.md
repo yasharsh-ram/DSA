@@ -31,6 +31,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 23 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | LeetCode #1396 | [C++](./leetcode/Medium/count-servers-that-communicate/count-servers-that-communicate.cpp) |
 | 24 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 | 25 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | LeetCode #4041 | [C++](./leetcode/Medium/climbing-stairs-ii/climbing-stairs-ii.cpp) |
+| 26 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | LeetCode #3372 | [C++](./leetcode/Easy/longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
 
 ## Backtracking
 
