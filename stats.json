@@ -8,7 +8,7 @@
       "": "67f71ee4eb79e291afab94566c8305dfc7abe6db"
     },
     "stats.json": {
-      "": "d91dc9a69ab92e61f1d186a39a6a35c489315d61"
+      "": "9ad60130975b6f1f9d3bc856feb7fd29d81b1ef4"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -172,8 +172,8 @@
       "README.md": "713934bbf941ced98b207967ca893596e093f8ba"
     },
     "longest-strictly-increasing-or-strictly-decreasing-subarray": {
-      "longest-strictly-increasing-or-strictly-decreasing-subarray.cpp": "8026a9231bd085bd2209387c205873b696fdbbb5",
-      "README.md": "335b232cc334dc6eb742f1275abdd16671e4f24d"
+      "longest-strictly-increasing-or-strictly-decreasing-subarray.cpp": "5a3989093924ffbf2a4fc8893cdfa1f27e6dc85d",
+      "README.md": "bb3b03b6fa85254a8c33886827cacedb4713b749"
     }
   },
   "solved": 42,
