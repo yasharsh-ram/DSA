@@ -32,6 +32,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 24 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 | 25 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | LeetCode #4041 | [C++](./leetcode/Medium/climbing-stairs-ii/climbing-stairs-ii.cpp) |
 | 26 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | LeetCode #3372 | [C++](./leetcode/Easy/longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
+| 27 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 
 ## Backtracking
 
@@ -227,11 +228,29 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 
+## Monotonic Queue
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
+
+## Monotonic Stack
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
+
 ## Ordered Set
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
+
+## Queue
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 
 ## Segment Tree
 
@@ -239,6 +258,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | LeetCode #3163 | [C++](./leetcode/Easy/subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.cpp) |
 | 2 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
+| 3 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 
 ## Shortest Path
 
@@ -258,6 +278,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 2 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
+| 3 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 
 ## Sorting
 
@@ -282,6 +303,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 5 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode #1078 | [C++](./leetcode/Easy/remove-outermost-parentheses/remove-outermost-parentheses.cpp) |
 | 6 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode #957 | [C++](./leetcode/Medium/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
 | 7 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | LeetCode #1648 | [C++](./leetcode/Medium/minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.cpp) |
+| 8 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 
 ## String
 
