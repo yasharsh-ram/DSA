@@ -33,6 +33,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 25 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | LeetCode #4041 | [C++](./leetcode/Medium/climbing-stairs-ii/climbing-stairs-ii.cpp) |
 | 26 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | LeetCode #3372 | [C++](./leetcode/Easy/longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
 | 27 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
+| 28 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
 
 ## Backtracking
 
@@ -246,6 +247,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 
+## Prefix Sum
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
+
 ## Queue
 
 | # | Problem | Platform | Language |
@@ -279,6 +286,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 2 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
 | 3 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
+| 4 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
 
 ## Sorting
 
