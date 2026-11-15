@@ -34,6 +34,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 26 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | LeetCode #3372 | [C++](./leetcode/Easy/longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
 | 27 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 | 28 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
+| 29 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 
 ## Backtracking
 
@@ -140,6 +141,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 6 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | LeetCode #3938 | [C++](./leetcode/Medium/twisted-mirror-path-count/twisted-mirror-path-count.cpp) |
 | 7 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 8 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | LeetCode #4041 | [C++](./leetcode/Medium/climbing-stairs-ii/climbing-stairs-ii.cpp) |
+| 9 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 
 ## Enumeration
 
@@ -212,6 +214,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 6 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | LeetCode #4116 | [C++](./leetcode/Easy/minimum-moves-to-equal-array-elements-iii/minimum-moves-to-equal-array-elements-iii.cpp) |
 | 7 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 8 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | LeetCode #4147 | [C++](./leetcode/Medium/minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.cpp) |
+| 9 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 
 ## Matrix
 
@@ -252,6 +255,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
+| 2 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 
 ## Queue
 
