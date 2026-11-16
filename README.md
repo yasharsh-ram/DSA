@@ -282,6 +282,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
+| 2 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | LeetCode #2361 | [C++](./leetcode/Easy/calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.cpp) |
 
 ## Sliding Window
 
@@ -333,6 +334,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 10 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | LeetCode #2496 | [C++](./leetcode/Easy/count-days-spent-together/count-days-spent-together.cpp) |
 | 11 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
 | 12 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
+| 13 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | LeetCode #2361 | [C++](./leetcode/Easy/calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.cpp) |
 
 ## Tree
 
