@@ -35,6 +35,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 27 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
 | 28 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
 | 29 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
+| 30 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
 
 ## Backtracking
 
@@ -106,6 +107,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode #1692 | [C++](./leetcode/Hard/number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+| 2 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
 
 ## Counting
 
@@ -215,6 +217,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 7 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 8 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | LeetCode #4147 | [C++](./leetcode/Medium/minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.cpp) |
 | 9 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
+| 10 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
 
 ## Matrix
 
@@ -243,6 +246,12 @@ This repository contains my solutions to coding problems from platforms like Lee
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | LeetCode #3674 | [C++](./leetcode/Hard/count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.cpp) |
+
+## Number Theory
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
 
 ## Ordered Set
 
@@ -283,6 +292,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | :--- | :--- | :--- | :--- |
 | 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 | 2 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | LeetCode #2361 | [C++](./leetcode/Easy/calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.cpp) |
+| 3 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
 
 ## Sliding Window
 

@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "6dd3d41b84fd8787fb68cb360b97d513c468be8a"
+      "": "121dcf72ffc421724ef025083ed07f2d5db95c70"
     },
     "stats.json": {
-      "": "e911588fdf16787752fc0f64ed49fc0eee1ad0b0"
+      "": "23db614aa470f6746309191f2a3bd7f34ec48c6b"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -190,8 +190,12 @@
     "calculate-digit-sum-of-a-string": {
       "calculate-digit-sum-of-a-string.cpp": "79bd51477c1c7a74e770b003cca9846e93d224ff",
       "README.md": "a7832c840eaff7b6ad15b42a7bcd8d7c5697af4d"
+    },
+    "find-triangular-sum-of-an-array": {
+      "find-triangular-sum-of-an-array.cpp": "496582c3896fdeab0d235f94c899907e0e56177b",
+      "README.md": "3da33d954832c79ba19812666efc0fd170bebbb5"
     }
   },
-  "solved": 46,
+  "solved": 47,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
