@@ -345,6 +345,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 11 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode #4209 | [C++](./leetcode/Hard/palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.cpp) |
 | 12 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode #4104 | [C++](./leetcode/Medium/shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 | 13 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | LeetCode #2361 | [C++](./leetcode/Easy/calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.cpp) |
+| 14 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | LeetCode #3174 | [C++](./leetcode/Medium/minimum-number-of-changes-to-make-binary-string-beautiful/minimum-number-of-changes-to-make-binary-string-beautiful.cpp) |
 
 ## Tree
 
