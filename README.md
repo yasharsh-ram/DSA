@@ -36,6 +36,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 28 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | LeetCode #3644 | [C++](./leetcode/Easy/minimum-positive-sum-subarray/minimum-positive-sum-subarray.cpp) |
 | 29 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 | 30 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
+| 31 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 
 ## Backtracking
 
@@ -183,6 +184,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 6 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | LeetCode #4078 | [C++](./leetcode/Medium/maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.cpp) |
 | 7 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
 | 8 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | LeetCode #4147 | [C++](./leetcode/Medium/minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.cpp) |
+| 9 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 
 ## Hash Table
 
@@ -314,6 +316,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 5 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode #462 | [C++](./leetcode/Medium/minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) |
 | 6 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | LeetCode #1486 | [C++](./leetcode/Easy/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 | 7 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
+| 8 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 
 ## Stack
 
