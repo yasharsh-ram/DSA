@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "0d3ff4259181f06cc3d5204bfdf5a1075c9fb23e"
+      "": "90e48935a7ca0ef55663154024070430d7dd51ca"
     },
     "stats.json": {
-      "": "a72f0762043fc7aebf29c9d1592773c02ec4bf07"
+      "": "e03bd76d2f75c5f32f370a536fd9a6c14da1d3bb"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -202,8 +202,12 @@
     "minimum-score-by-changing-two-elements": {
       "minimum-score-by-changing-two-elements.cpp": "7c90ce5245edeaa70d1897d9e5ba9ac4fe2588c7",
       "README.md": "dde3ecade9d660bf521e019b725d4debb06c983c"
+    },
+    "maximize-consecutive-elements-in-an-array-after-modification": {
+      "maximize-consecutive-elements-in-an-array-after-modification.cpp": "b28f91caac33fface41cc8f58e9b6ceedbce860b",
+      "README.md": "b4b204aef9f5ea173fb8d93ac7867e230a4d5de2"
     }
   },
-  "solved": 49,
+  "solved": 50,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
