@@ -222,6 +222,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 8 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | LeetCode #4147 | [C++](./leetcode/Medium/minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.cpp) |
 | 9 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 | 10 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
+| 11 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | LeetCode #3625 | [C++](./leetcode/Easy/stone-removal-game/stone-removal-game.cpp) |
 
 ## Matrix
 
@@ -297,6 +298,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 1 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
 | 2 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | LeetCode #2361 | [C++](./leetcode/Easy/calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.cpp) |
 | 3 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
+| 4 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | LeetCode #3625 | [C++](./leetcode/Easy/stone-removal-game/stone-removal-game.cpp) |
 
 ## Sliding Window
 

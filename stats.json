@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "90e48935a7ca0ef55663154024070430d7dd51ca"
+      "": "3c047d3d48d4be2362a5c18ad6fbc9cbabd6da2a"
     },
     "stats.json": {
-      "": "e03bd76d2f75c5f32f370a536fd9a6c14da1d3bb"
+      "": "91aa353967c01dddd6e124f9208efbcfbfd10510"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -206,8 +206,12 @@
     "maximize-consecutive-elements-in-an-array-after-modification": {
       "maximize-consecutive-elements-in-an-array-after-modification.cpp": "b28f91caac33fface41cc8f58e9b6ceedbce860b",
       "README.md": "b4b204aef9f5ea173fb8d93ac7867e230a4d5de2"
+    },
+    "stone-removal-game": {
+      "stone-removal-game.cpp": "39964056344c58851a47466cd9bfdf4e92963ce2",
+      "README.md": "7b7b6a21782c3693860c49c3c193ad7edaa17e0c"
     }
   },
-  "solved": 50,
+  "solved": 51,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
