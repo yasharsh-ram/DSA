@@ -38,6 +38,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 30 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode #2324 | [C++](./leetcode/Medium/find-triangular-sum-of-an-array/find-triangular-sum-of-an-array.cpp) |
 | 31 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 | 32 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | LeetCode #3298 | [C++](./leetcode/Hard/maximize-consecutive-elements-in-an-array-after-modification/maximize-consecutive-elements-in-an-array-after-modification.cpp) |
+| 33 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | LeetCode #3742 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.cpp) |
 
 ## Backtracking
 
@@ -147,6 +148,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 8 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | LeetCode #4041 | [C++](./leetcode/Medium/climbing-stairs-ii/climbing-stairs-ii.cpp) |
 | 9 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | LeetCode #1631 | [C++](./leetcode/Medium/number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.cpp) |
 | 10 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | LeetCode #3298 | [C++](./leetcode/Hard/maximize-consecutive-elements-in-an-array-after-modification/maximize-consecutive-elements-in-an-array-after-modification.cpp) |
+| 11 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | LeetCode #3742 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.cpp) |
 
 ## Enumeration
 
@@ -187,6 +189,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 7 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | LeetCode #4084 | [C++](./leetcode/Medium/maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.cpp) |
 | 8 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | LeetCode #4147 | [C++](./leetcode/Medium/minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.cpp) |
 | 9 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
+| 10 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | LeetCode #3742 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.cpp) |
 
 ## Hash Table
 
