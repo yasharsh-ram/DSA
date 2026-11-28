@@ -39,6 +39,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 31 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 | 32 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | LeetCode #3298 | [C++](./leetcode/Hard/maximize-consecutive-elements-in-an-array-after-modification/maximize-consecutive-elements-in-an-array-after-modification.cpp) |
 | 33 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | LeetCode #3742 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.cpp) |
+| 34 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | LeetCode #3745 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-ii/maximum-number-of-items-from-sale-ii.cpp) |
 
 ## Backtracking
 
@@ -190,6 +191,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 8 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | LeetCode #4147 | [C++](./leetcode/Medium/minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.cpp) |
 | 9 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 | 10 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | LeetCode #3742 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.cpp) |
+| 11 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | LeetCode #3745 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-ii/maximum-number-of-items-from-sale-ii.cpp) |
 
 ## Hash Table
 
@@ -210,6 +212,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 3 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | LeetCode #3717 | [C++](./leetcode/Hard/minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 4 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | LeetCode #2012 | [C++](./leetcode/Medium/process-tasks-using-servers/process-tasks-using-servers.cpp) |
 | 5 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | LeetCode #1710 | [C++](./leetcode/Hard/find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.cpp) |
+| 6 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | LeetCode #3745 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-ii/maximum-number-of-items-from-sale-ii.cpp) |
 
 ## Math
 
@@ -325,6 +328,7 @@ This repository contains my solutions to coding problems from platforms like Lee
 | 7 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | LeetCode #2833 | [C++](./leetcode/Medium/count-zero-request-servers/count-zero-request-servers.cpp) |
 | 8 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | LeetCode #2706 | [C++](./leetcode/Medium/minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.cpp) |
 | 9 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | LeetCode #3298 | [C++](./leetcode/Hard/maximize-consecutive-elements-in-an-array-after-modification/maximize-consecutive-elements-in-an-array-after-modification.cpp) |
+| 10 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | LeetCode #3745 | [C++](./leetcode/Medium/maximum-number-of-items-from-sale-ii/maximum-number-of-items-from-sale-ii.cpp) |
 
 ## Stack
 

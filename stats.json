@@ -5,10 +5,10 @@
       "README.md": "04dbb2105be95acbdbabeb9e5862dad46092438d"
     },
     "README.md": {
-      "": "f1df50e17a9005afdf7603b0e063a4e2c9a838fe"
+      "": "a245d7d05fd7765507e8d70ba641e585155d0bf0"
     },
     "stats.json": {
-      "": "c285f1289a8b9c8eadfb959adab3a1c165c6959c"
+      "": "4491b48b5802ea4665c6ad746cf99717b498c1ec"
     },
     "generate-parentheses": {
       "generate-parentheses.cpp": "fe120be7395f1e864b3775799bdfb9b7f162face",
@@ -214,8 +214,12 @@
     "maximum-number-of-items-from-sale-i": {
       "maximum-number-of-items-from-sale-i.cpp": "e37d4685c7c797e91653a1ff193e47b749643684",
       "README.md": "9afe3cc3138377467546147bb0114e6b92f4f16e"
+    },
+    "maximum-number-of-items-from-sale-ii": {
+      "maximum-number-of-items-from-sale-ii.cpp": "caa811fcd8a674023d725fd355af9ab15c8381b6",
+      "README.md": "0bdaf57dbac24055ce7f3db4bd86afbd51e59f95"
     }
   },
-  "solved": 52,
+  "solved": 53,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
